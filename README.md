@@ -9,3 +9,6 @@ To use this within PHPStorm do - ````File > import settings```` > locate downloa
 
 ![](http://i.imgur.com/fhUZfGL.png)
 
+![](http://i.imgur.com/RXAmWsH.png)
+
+![](http://i.imgur.com/GN2oOtB.png)
